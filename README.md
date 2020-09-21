@@ -1,1 +1,1 @@
-# discordbot
+A discord bot that is meant to help you get to know people, specifically the people with a lot of common interests. Baljeet is an expert at friend matchmaking, and he uses his advanced algorithm to determine the best match, he then pings you with the name of that person so that you can contact them. 
